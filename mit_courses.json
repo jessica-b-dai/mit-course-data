@@ -4422,7 +4422,14 @@
     "description": "4.031 Design Studio: Objects and Interaction ( ) Overview of design as the giving of form, order, and interactivity to the objects that define our daily life. Follows the path from project to interactive product. Covers the overall design process, preparing students for work in a hands-on studio learning environment. Emphasizes design development and constraints. Topics include the analysis of objects; interaction design and user experience; design methodologies, current dialogues in design; economies of scale vs. means; and the role of technology in design. Provides a foundation in prototyping skills such as carpentry, casting, digital fabrication, electronics, and coding. Limited to 15; preference to Course 4-B majors and Design Minors. M. Coelho",
     "units": "3-3-6",
     "prereqs": "None",
-    "schedule": []
+    "schedule":[
+      {
+        "type": "Lecture",
+        "days": "TR",
+        "time": "2-5",
+        "location": "N52-342C"
+      }
+    ]
   },
   {
     "department": 4,
